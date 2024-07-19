@@ -1,6 +1,6 @@
 import java.util.Objects;
 
-public class Hufflepuff extends hogwarts {
+public class Hufflepuff extends Hogwarts {
     private int hardworking;
     private int loyal;
     private int honest;

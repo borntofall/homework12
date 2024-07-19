@@ -1,6 +1,6 @@
 import java.util.Objects;
 
-public class Ravenclaw extends hogwarts {
+public class Ravenclaw extends Hogwarts {
     private int wise;
     private int witty;
     private int creative;

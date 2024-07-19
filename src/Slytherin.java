@@ -1,6 +1,6 @@
 import java.util.Objects;
 
-public class Slytherin extends hogwarts {
+public class Slytherin extends Hogwarts {
     private int cunning;
     private int determination;
     private int ambition;

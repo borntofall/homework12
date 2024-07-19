@@ -1,6 +1,6 @@
 public class Main {
     public static void main(String[] args) {
-        Griffindor harryPotter = new Griffindor("Harry Potter", 51, 99, 74, 35, 95);
+        Griffindor harryPotter = new Griffindor("Harry Potter", 51, 98, 74, 35, 95);
         Griffindor roneWeasley = new Griffindor("Rone Weasley", 66, 67, 36, 63, 54);
         Griffindor hermioneGranger = new Griffindor("Hermione Granger", 88, 88, 96, 77, 99);
 
@@ -20,6 +20,6 @@ public class Main {
         dracoMalfoy.compareSlytherinStudents(gregoryGoyle);
         zachariasSmith.compareHufflepuffStudents(cedricDiggory);
         padmaPatil.compareRavenclawStudents(marcusBelby);
-        hogwarts.compareHogwartsStudents(roneWeasley,dracoMalfoy);
+        Hogwarts.compareHogwartsStudents(harryPotter,dracoMalfoy);
     }
 }

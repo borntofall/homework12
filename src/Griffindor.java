@@ -1,6 +1,6 @@
 import java.util.Objects;
 
-public class Griffindor extends hogwarts {
+public class Griffindor extends Hogwarts {
 
     private int nobility;
 
